@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_700">#1A2730</color> <!-- Deep Blue -->
+    <color name="blue_200">#DFEBEE</color> <!-- Light Blue -->
+    <color name="yellow_200">#FFFFC107</color> <!-- Vibrant Yellow -->
+</resources>

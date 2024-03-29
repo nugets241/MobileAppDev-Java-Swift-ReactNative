@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQR Navigator</string>
+    <string name="current_location">Current Location:</string>
+    <string name="distance">Distance:</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="qr_code">QR Code Location:</string>
+    <string name="geoqr_navigator">GeoQR Navigator</string>
+    <string name="q_lat_nlon">Lat: --\nLon: --</string>
+    <string name="c_lat_nlon">Lat: --\nLon: --</string>
+    <string name="km">-- km</string>
+</resources>
