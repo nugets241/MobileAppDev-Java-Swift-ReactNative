@@ -1,4 +1,4 @@
-# Mobile App Development - Android, iOS, CrossPlatform
+# Mobile App Projects - Android, iOS
 
 This repository contains various mobile application projects developed for Android, iOS, and CrossPlatform using different technologies like Java, Swift, and React Native.
 
