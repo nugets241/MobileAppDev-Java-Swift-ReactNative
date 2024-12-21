@@ -12,10 +12,6 @@ An Android application that allows users to scan QR codes containing geolocation
 
 An Android application that provides weather information.
 
-### [Weather App (CrossPlatform)](CrossPlatform-ReactNative-WeatherApp-2023/README.md)
-
-A CrossPlatform application developed using React Native that provides weather information.
-
 ### [EU Members](iOS-Swift-EUMembers-2023/README.md)
 
 An iOS application developed in Swift that provides information about the member countries of the European Union.
